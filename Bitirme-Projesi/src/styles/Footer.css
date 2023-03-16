@@ -1,0 +1,19 @@
+.footer {
+  width: 100%;
+  height: 60px;
+  background-color: blue;
+  opacity: 0.7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.socialMedia svg {
+  color: white;
+  margin-right: 20px;;
+  font-size: 40px;
+  cursor: pointer;  /* Mause İşaretçisi */
+  
+}

@@ -1,0 +1,39 @@
+.about {
+  width: 100%;
+  height: 120vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.about .aboutTop {
+  margin-bottom: 30px;
+  margin-top: 15px;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.aboutBottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px; 
+}
+
+.aboutBottom p {
+  width: 70%;
+}
+
+.about .aboutBottom h1 {
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: px;
+  color: black;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  transform: translateY(-40px);
+}
